@@ -1,2 +1,2 @@
 # haikujamapp
-Spell Correction App for HaikuJAM app
+Spell Correction App for HaikuJAM interview
